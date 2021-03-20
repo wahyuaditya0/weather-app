@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Unicase:wght@300&family=Open+Sans+Condensed:wght@300&family=Quicksand:wght@300&display=swap");
+
+.tanggal,
+.jam {
+  font-family: "Open Sans Condensed", sans-serif;
+  margin-top: 15px;
+}
+
+h1 {
+  font-family: "Cormorant Unicase", serif;
+  font-weight: bold;
+}
+
+.suhu {
+  font-size: 40px;
+}
+
+body {
+  background-image: url("./img/sky1.jpg");
+  display: cover;
+}
+
+div {
+  margin-top: 100px;
+}
+
+input {
+  border: none;
+  border-radius: 100px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  font-family: "Quicksand", sans-serif;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.gambar {
+  height: 100px;
+  width: 100px;
+  margin-top: 0px;
+}
+
+.wrap-weather {
+  text-align: center;
+}
